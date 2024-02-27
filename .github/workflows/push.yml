@@ -1,6 +1,8 @@
-name: Python package
+name: Update data and webpage
 
-on: [push]
+on:
+  schedule:
+    - cron: "*/5 * * * *"
 
 jobs:
   build:
@@ -13,6 +15,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
+          ref: main
           persist-credentials: false
           fetch-depth: 0
       - name: Set up Python ${{ matrix.python-version }}
@@ -45,4 +48,4 @@ jobs:
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
-          branch: dev
+          branch: main
