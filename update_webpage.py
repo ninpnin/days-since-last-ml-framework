@@ -26,7 +26,7 @@ for _, row in df.iterrows():
     d[f"DAYS{ix}"] = str(days)
     ix += 1
 
-
+d["UPDATEDON"] = datetime.datetime.today().strftime('%Y-%m-%d %H:%M') 
 print(d)
 
 with open("index_template.html") as f:
