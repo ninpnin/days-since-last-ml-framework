@@ -1,0 +1,44 @@
+name: Python package
+
+on: [push]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        python-version: [ "3.9" ]
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+          fetch-depth: 0
+      - name: Set up Python ${{ matrix.python-version }}
+        uses: actions/setup-python@v4
+        with:
+          python-version: ${{ matrix.python-version }}
+      - name: fish-actions/install-fish
+        uses: fish-actions/install-fish@v1.1.0
+      # You can test your matrix by printing the current Python version
+      - name: Install dependencies
+        run: python -m pip install torch transformers pandas progressbar2
+      - name: Fetch data from GH API
+        run: fish fetch_data.fish
+      - name: Aggregate data
+        run: python aggregate.py
+      - name: Download BERT classifier
+        run: |
+           wget https://github.com/ninpnin/days-since-last-ml-framework/releases/download/v0.1.0/ml-framework.zip
+           unzip ml-framework.zip
+      - name: Rank files
+        run: python rank_repos.py
+      - name: Update index.html
+        run: python update_webpage.py
+        
+      - name: Commit files
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git commit -a -m "chore: fetch new repos and find newest frameworks"
