@@ -2,7 +2,7 @@ import pandas as pd
 from pathlib import Path
 import json
 
-columns = ["name", "full_name", "description", "created_at"]
+columns = ["name", "full_name", "description", "created_at", "pushed_at"]
 rows = []
 for p in Path("data").glob("results*.json"):
     with p.open() as f:
@@ -30,6 +30,6 @@ df.to_csv("data/aggregated_results.csv", index=False)
 
 sample = df.sample(n=100)
 sample["framework"] = ""
-sample = sample[["framework", "description"]]
+sample = sample[["framework", "full_name", "description"]]
 
 sample.to_csv("data/sample.csv", index=False)

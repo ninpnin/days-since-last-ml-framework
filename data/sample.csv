@@ -1,4 +1,4 @@
-﻿framework,full_name,description
+﻿tag,full_name,content
 yes,AI4Finance-Foundation/FinML,FinML: A Practical Machine Learning Framework for Dynamic Stock Selection
 yes,LisaLi525/Loan-Company-Scorecard-Project,"The ""Comprehensive Machine Learning Framework in R"" is an all-inclusive toolkit for data preprocessing, WOE calculation, and model evaluation, designed for robust machine learning applications and equipped with cross-validation and extensibility features."
 yes,rust-ml/linfa,A Rust machine learning framework.
