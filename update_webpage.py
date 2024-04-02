@@ -14,7 +14,7 @@ for _, row in df.iterrows():
     description = row["description"]
     print(ix, fullname, created_at, description)
 
-    d[f"DESCRIPTION{ix}"] = description
+    d[f"DESCRIPTION{ix}"] = str(description)
     d[f"PROJECT{ix}"] = fullname
     d[f"LINK{ix}"] = f"https://github.com/{fullname}"
 
