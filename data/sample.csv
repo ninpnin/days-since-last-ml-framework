@@ -1,101 +1,101 @@
 framework,full_name,description
-,kannandreams/falcon,Developer toolkit for Data scientist and ML Engineers. Build end to end ML framework for any kind of machine learning tasks.
-,Alt900/PyPredict,"PyPredict is a statistical and machine learning framework built off of PyTorch, Numpy, Pandas, and Statsmodels"
-,ANL-CEEESA/MIPLearn,Framework for solving discrete optimization problems using a combination of Mixed-Integer Linear Programming (MIP) and Machine Learning (ML)
-,ParamThakkar123/Machine-Learning-Projects,"This repository contains all the machine learning and deep learning model I have implemented using various frameworks like keras, tensorflow, scikit-learn, pytorch, etc."
-,JuliaAI/MLJ.jl,A Julia machine learning framework
-,R300-AI/ultralytics,"This repository contains Ultralytics v8.2.0, specifically packaged to support the `ultralytics-train-export` project. The goal of this repository is to provide a Docker image that simplifies the process of training and exporting machine learning models using the Ultralytics framework."
-,dev-abuke/Automated_Ad_Storyboard_Synthesis,The objective of this challenge is to develop a machine learning framework that automates the transformation of textual advertisement descriptions into visually compelling storyboards.
-,kanishk2909/IPL-Win-predictor-Using-Python,"Developed an IPL (Indian Premier League) win predictor system using Python and Streamlit framework, leveraging data analysis and machine learning techniques."
-,Revith-Kumar/Age-and-Gender-Detection,A web Applicarion can able to identify a persons Gender and their Age .And this project is based on Machine Learning. The framework used in this project is OpenCV and Flask.
-,abmazitov/torch_alchemical,Atomistic machine learning library for training interatomic potentials within PyTorch and PyTorch Geometric frameworks
-,Daniel-Andarge/AiML-credit-risk---loan-optimization-ml,"This project focuses on leveraging advanced data analytics and machine learning techniques to develop a comprehensive credit risk assessment, credit scoring, and loan optimization framework. "
-,nanthini-nagarajan/Machine-learning-model,"This is a PySpark code that performs various data preprocessing, feature engineering, and machine learning tasks on a network traffic dataset. Frameworks and Libraries used in this projects are PySpark, Spark MLlib and NumPy."
-,Sufi26/Machine-Learning-Based-Prognosis-of-Early-Stage-Alzheimer-s-Disease.,"Developed a machine learning framework for early Alzheimer's prognosis using medical imaging. Investigated imaging modalities, data acquisition, and feature extraction. Implemented advanced classification algorithms for accurate prediction and AI diagnostics. "
-,dartl0l/spiking-learn,Framework for machine learning with spiking neural networks
-,VedantK1604/Flight-price-prediction-using-ml,"This project aims to predict flight prices using machine learning with the help of AWS Sagemaker. The project leverages the XGBoost framework for prediction and Streamlit for the user interface. The end-to-end pipeline includes data storage, feature engineering, model training, and prediction."
-,Dipika99/credit-card-fraud-detection,"Our goal in this research is to use big data analytics to advance the detection of credit card fraud. Through the utilisation of sophisticated machine learning models and scalable data processing frameworks, we enable financial institutions to effectively counteract fraudulent transactions. "
-,J-Liciaga/evlware,An AI-powered penetration testing framework that automates and enhances cybersecurity assessments using machine learning and advanced security tools.
-,HarryME-zh/EdgeFL,The EdgeFL Framework simplifies the integration of decentralized federated learning into your machine learning applications.
-,hsatishreddy/ML_PROJECT_CS584,CYBERSECURITY THREAT DETECTION USING MACHINE LEARNING FRAMEWORKS
-,irx76/ATM-Machine,"Welcome to the demonstration of my fully functional ATM machine project, developed using the Java Swing framework and JDBC for database operations. This project is my first endeavor after learning Java from scratch and showcases various ATM functionalities with a touch of internationalization and CRUD operations."
-,HanBnrd/BenchNIRS,Benchmarking framework for machine learning with fNIRS
-,awslabs/graphstorm,Enterprise graph machine learning framework for billion-scale graphs for ML scientists and data scientists.
-,roshanidubey/NutriCraft,"Nutricraft is machine learning project. The aim of this project to give best diet maintanance of diet of whole day. Based on use data(height,weight,age,,preferences,etc)the requirement of macronutrients will be given and according to that constitutent the suggestions of food will be given. The project is made using Django framework(python)."
-,shivliraina/Heart-Disease-Predicter-using-ML,This project is Python-based Machine Learning and Data Science frameworks to develop a predictive model for heart disease based on medical characteristics.
-,2ndthoughts/symphonyGPT,"A platform developed from an open framework to help AI researchers and developers to rapidly prototype, test and deploy workflows that include machine learning models as worker components. The workflow can be invoked on command line or web service, as well as integrated into UX/UI as part of a larger intelligent solution."
-,dotnet/machinelearning,ML.NET is an open source and cross-platform machine learning framework for .NET.
-,SaraAghamiri/ML_Template1_DCVaccine,This project amalgamates the outcomes of a DCVaccine predictive model within a machine learning framework utilizing Multiple Linear Regression techniques
-,Rvosuke/MMG,A Machine Learning Framework for Grading Glaucoma Severity for the Tiered Healthcare System in China
-,DanielBalsam/surv_ai,A framework to empower forecasting using Large Language Models (LLMs)
-,Azure/Azure-Machine-Learning-Adoption-Framework,"this repo provides best practice guidance, plan template, solution assessment tool etc. to help Machine Learning Studio(classic) customer adopt Azure Machine Learning."
-,hsuehyt/CheckCudaVersion,This repository contains a Python script to check the installed CUDA version using PyTorch. It helps ensure compatibility with machine learning frameworks that require GPU acceleration.
-,ml-master/ENDEF-framework,machine learning homework
-,openlangrid/mlgrid-services,A framework to serve various generative AIs and other machine learning functions via WebSocket and JSONRPC.
-,janelia-cellmap/dacapo,"A framework for easy application of established machine learning techniques on large, multi-dimensional images."
-,JuliaAI/MLJTuning.jl,Hyperparameter optimization algorithms for use in the MLJ machine learning framework
-,snehpatel56/mindsdb-machine-learning-framework,
-,secretflow/secretpad,"SecretPad is a privacy-preserving  computing web platform based on the Kuscia framework, designed to provide easy access to privacy-preserving data intelligence and machine learning functions. "
-,alteryx/predict-customer-churn,A general-purpose framework for solving problems with machine learning applied to predicting customer churn
-,Kami-christella/Cancer-Prediction,The application uses machine learning to predict cancer in patients based on various signs and symptoms. It is developed using the Django framework and Python.
-,meghalbothra/Portfolio,"This repository houses my personal portfolio website, featuring a blend of expertise in web development and machine learning. Discover innovative projects, crafted with technologies like React, Node.js and Python frameworks. Explore how I merge creative web design with intelligent functionality to deliver impactful solutions."
-,rdsea/ROHE,An orchestration framework for End-to-End Machine Learning Serving with Resource Optimization on Heterogeneous Edge
-,imSkyAK/MultiDisease-predictor,This is a Multiple disease predictor website with an interactive user UI . It is based on the continuous machine learning algorithm . It is developed using python language and html templates . It is developed on the Flask framework
-,chanmyaelwin2822/Career-Recommendation-System,"This career recommendation system is a system that will help students to choose their career path or field based on their preferences and interest using a machine learning algorithm, namely K-Nearest Neighbour. The application used technologies React js and Java Spring Framework. "
-,j03m/machine-learning-intuitions,A free book I started writing aimed at helping folks using machine learning frameworks everyday have a better intuition about what is happening under the hood!
-,ebetap/ethics-framework,A JavaScript framework for ethical decision-making using supervised and unsupervised machine learning models.
-,drexel-DISCO/PRONTO,A Framework for fast {PRO}totyping and benchmarking of S{N}N hardware using {TO}rch-based machine learning dialects
-,Jignesh749/ML_Projects,This repository contains various Machine Learning Projects built using different frameworks and libraries.
-,dobesjan/machine-learning,Machine learning framework with web interface
-,DataLabUPO/MetaGen,MetaGen: A framework for metaheuristic development and hyperparameter optimization in machine and deep learning
-,SoftSimu/glass_transition,Data and information wrt the machine learning framework for glass transition
-,Charmve/jsFlow, A Lightweight Web Browser-based Machine Learning Framework
-,MonitSharma/Learn-Quantum-Machine-Learning,Learn Quantum Machine Learning using pennylane framework
-,TheVishwakarma/Sign-Language-Detection,This project is a an implementation of a system for Detection of sign language i.e. the letters of the American sign language (ASL) in real time via Python Web framework Streamlit with the help of various machine learning models for image processing.
-,uogbuji/mlx-notes,Shared personal notes created while working with the Apple MLX machine learning framework
-,Ayush1974/Streamlit-Apps,"This repository hosts a Streamlit application designed to demonstrate the numerous benefits of using Streamlit for building interactive, data-driven web applications. Streamlit is a powerful, open-source framework that simplifies the process of creating and sharing custom web apps for machine learning and data science projects."
-,ivy-llc/ivy,Convert Machine Learning Code Between Frameworks
+,ns7523/DDoS-attack-in-IoT,Feature Engineering and Machine Learning Framework for DDoS Attack Detection in the Standardized Internet of Things
+,markov24/DoubleLingo,Theoretically consistent estimation of causal effects using LLM-based nuisance models by incorporating them within the framework of Double Machine Learning.
+,zeerkius/Krakinos,This is a machine Learning Algorithm that uses a Convolutional Neural Network to classify images of melanoma. It has a Training accuracy of 85% a validation accuracy of 79% and an out of Sample accuracy of 62%. I Developed this using Tensorflow and Keras frameworks and received my data from the ISIIC 2020 Kaggle Challenge.
+,divyaa6/InternPe,"This repository contains code for multiple machine learning models, each designed to solve specific problems and deployed using web frameworks like Flask. The models cover a range of tasks including regression, classification, and more during my internship at InternPe"
+,Ankitach780/Sales-Data-Prediction-using-Streamlit,Streamlit is open source framework which is used to deploy Machine learning models easily.
+,Boehm92/cagr_framework,Machine learning framework with data generator for CAD meshes and Graph Neural Network Regression
+,AtharvAwasthi/Hybrid-Machine-Learning-Framework-to-Forecast-Long-Term-SPG-Potential,Python algorithm based on three learning models to forecast the long-term solar power generation of a region
+,sktime/sktime,A unified framework for machine learning with time series
+,edtechre/pybroker,Algorithmic Trading in Python with Machine Learning
+,Jitendrayadav45/awesome-python,"The ""awesome-python"" repository is a curated list of awesome Python frameworks, libraries, software, and resources. It serves as a comprehensive directory for Python developers looking for high-quality tools and resources across various domains such as web development, data science, machine learning, automation"
+,sperospera1225/spark-ml-pipelines,Distributed machine learning framework with Spark MLlib
 ,jasonscotth/Apache-Spark-Multithreading-Performance-on-ML,"Group project where performance of different multithreading models used under the Apache Spark framework were assessed.  Machine learning models that were assessed were Logistic Regression, Support Vector Classifier, and Random Forest.  A research paper and presentation are included."
-,yoshi151/mediapipe,"Google developed Mediapipe as an open-source framework for building and deploying machine-learning pipelines. These pipelines can process multimedia data like text, video, and audio in real time."
-,Ean-Warrick/mlua,A Machine Learning Framework that uses Neural Networks. Developed for Roblox Studio.
-,AestheticDreamsAI/Cherry-Lite,"Cherry-Lite is an simple offline AI client based on the LAMBot-AI framework. It recognizes user intents and performs actions like launching applications using machine learning and NLP. Integrated client with XTTS for text-to-speech and Ollama for enhanced NLP, Cherry-Lite offers an interactive and efficient user experience."
-,Juliocoi/BabylonOnFire,"Criado para o estudo do framework RoboCode, para o estudo da disciplina Machine Learning sobre a tutela do Prof. Dr. Andre Caetano Alves Firmo"
-,karennagariswathi/swathikarennagari-W11_Assignment,Implementing a microservice using the Python Flask framework on an Ubuntu virtual machine to serve a machine learning prediction model.
-,johnneogithub/TeamCODEXIA-Thesis_Project2,"Web-app name: PlanItFamIt, an application for tracking ovulation using LSTM of machine learning. This is also the 2nd repository of the Team CODEXIA's thesis project. The version 1st repository had problems with flask python frameworks, which made git impossible to be fixed."
-,imrannasrullah/quantum-machine-learning,Using Pennylane's QML framework to optimize molecular geometries + interaction energies
-,PRIYANKAANAGPAL/breast_cancer_detection,"Breast cancer is one of the most common cancers among women worldwide. Early detection and accurate prediction of breast cancer are crucial for timely treatment and improved survival rates. In this project, we leverage PySpark, a powerful distributed computing framework, to develop a breast cancer prediction model using machine learning algorithms"
-,Karthik-099/Chest-Cancer-Diagnosis-Pipeline-with-MLflow-and-DVC,"An end-to-end pipeline for chest cancer diagnosis using machine learning. This project employs MLflow for experiment tracking and DVC for data versioning, ensuring efficient data management and reproducibility. Features include data preprocessing, model training, evaluation, and deployment within an MLOps framework."
-,tensorflow/tensorflow,An Open Source Machine Learning Framework for Everyone
-,anacostiaAI/anacostia-pipeline,Anacostia is a framework for creating machine learning operations (MLOps) pipelines
-,nomarine/intro_machine_learning,Exerccios introdutrios sobre Machine Learning feitos Collab utilizando a framework scikit-learn
-,superrabbit2023/InvNet,InvNet: a machine learning framework for grid-edge inverter impedance modeling
-,Riwaj22/TensorFlow,learning to use framework for building machine learning models
-,aws-solutions/media-insights-on-aws,"A serverless framework to accelerate the development of applications that discover next-generation insights in your video, audio, text, and image resources by utilizing AWS Machine Learning and Media services."
-,frost-beta/node-mlx,Machine learning framework for Node.js.
-,Mac-007/Hyperparameter-optimization-using-Optuna-framework,"""Optimize machine learning model performance effortlessly with this repository showcasing hyperparameter tuning using the Optuna framework."""
-,SeldonIO/seldon-core,"An MLOps framework to package, deploy, monitor and manage thousands of production machine learning models"
-,RasaHQ/rasa,"   Open source machine learning framework to automate text- and voice-based conversations: NLU, dialogue management, connect to Slack, Facebook, and more - Create chatbots and voice assistants"
-,MasterK0927/neuraC,"A machine learning framework and visualisation tool, written in C."
-,higgsfield-ai/higgsfield,"Fault-tolerant, highly scalable GPU orchestration, and a machine learning framework designed for training models with billions to trillions of parameters"
-,Artificial-Intelligence-Computer-Vision/BAI-CVRI-Machine-Learning-Artifitial-Inteligence-Models-Framework-Security-Powerpoint-Notes,
-,HackXIt/lvgl-ui-detector,A machine learning project to detect widgets of the LVGL framework from screenshots for test automation
-,KhBraham/Handwritten-Character-Recognition-Project,I developed a machine learning model to recognize handwritten English alphabets (A-Z) from images. This project leverages the powerful combination of deep learning techniques and the MNIST dataset framework.
-,Avishek3223/heart-diseases-prediction-backend,"Backend for heart disease prediction using machine learning. Processes data, trains models, and provides a RESTful API for predictions. Utilizes AWS S3 for storage, Lambda for serverless execution, and Serverless Framework for deployment. Handles missing data with default values for improved accuracy."
-,alicembera/Building-Machine-Learning-API-s-With-FastAPI,"The project focused on analyzing trends and predictors in patient data to uncover the factors contributing to sepsis occurrences. Machine learning models were developed to provide accurate and efficient classification of sepsis cases, utilizing the FastAPI framework and Docker for implementation."
-,helmholtz-analytics/heat,Distributed tensors and Machine Learning framework with GPU and MPI acceleration in Python
-,premgodara-oss/phising_url_detection,"This project is a web application designed to detect phishing URLs using machine learning. It leverages Flask for the web framework and a pre-trained Gradient Boosting Classifier model for the prediction. Users can input a URL, and the application will analyze its features to determine the probability of it being a phishing site."
-,ci-group/learning_machines_robobo,Framework for the Learning Machines Course at VU Amsterdam
-,PJF9/Animefaces-GAN,"AnimeFaces-GAN is a deep learning project focused on generating high-quality anime faces using Generative Adversarial Networks (GANs). Whether you are a researcher, a developer, or an enthusiast, AnimeFaces-GAN provides a solid foundation and a flexible framework to experiment with and enhance your machine learning projects."
-,rishikant014/ChatBOT,"Welcome to the Private Chatbot with TensorFlow repository! This project presents a sophisticated chatbot system built on the robust foundation of TensorFlow, a cutting-edge machine learning framework."
+,manulthanura/LapPricePrognosticator,End-to-end machine learning project that can predict the price of a laptop based on its features. The application is built using the Flask web framework and deployed on Azure.
+,google/paxml,"Pax is a Jax-based machine learning framework for training large scale models. Pax allows for advanced and fully configurable experimentation and parallelization, and has demonstrated industry leading model flop utilization rates."
+,Jignesh749/ML_Projects,This repository contains various Machine Learning Projects built using different frameworks and libraries.
+,Rvosuke/MMG,A Machine Learning Framework for Grading Glaucoma Severity for the Tiered Healthcare System in China
+,TheGreatDaniad/go-think,A Go machine learning framework
+,TsLu1s/MLimputer,MLimputer: Missing Data Imputation Framework for Supervised Machine Learning
 ,douglasbc/tennis_model,"End-to-end tennis prediction model. Data ingested with Python and transformed with dbt on BigQuery. Model implemented with Google JAX, a Python machine learning framework."
-,itstheprashant/Duplicate-Question-Pair-Analysis-,"Developed a system to detect duplicate question pairs using Python, NLP libraries (NLTK, SpaCy), and machine learning frameworks (Scikit-Learn)."
-,iWillTech/iwilltech-machine-learning-service,An upgraded open-source Cloud Framework dedicated to providing a scalable Machine-Learning-as-a-Service implementation.
-,sunilkhadka139/LLM_Powered_AI_Framework_For_Semantic_Energy_Data_Search,This repository exhibits the capabilities of LLM for advanced data processing and machine learning algorithms to create an AI-enhanced data infrastructure framework to facilitate semantic search for energy data. The project aims to make building energy data and transportation data more accessible and comprehensible to users.
-,apax-hub/apax,A flexible and performant framework for training machine learning potentials.
-,rameshcreddy/Machine-Learning-Projects,Flask Framework Projects 
-,JatinGola8040/Gender-Detection-Speech-Analysis,"The gender classification project is a cutting-edge application that leverages machine learning and voice analysis to determine gender based on audio inputs. This innovative system integrates advanced technologies, including deep learning frameworks and sophisticated audio processing tools, to achieve high accuracy and real-time performance.."
+,johnhooft/Anomaly-Detection-Tool,A Machine Learning Framework implemented in python designed to detect anomalies in time series data using unsupervised learning 
+,shivliraina/Heart-Disease-Predicter-using-ML,This project is Python-based Machine Learning and Data Science frameworks to develop a predictive model for heart disease based on medical characteristics.
+,carterw16/AutonML-Evaluation-Framework,This repository hosts a python framework evaluating the performance of the Carnegie Mellon University Auton Lab's AutoML (Automated Machine Learning) system: AutonML.
+,Ean-Warrick/mlua,A Machine Learning Framework that uses Neural Networks. Developed for Roblox Studio.
+,kunaljtamhane/Hand-Tracking-using-Computer-Vision,"This project utilizes Google's Mediapipe framework to implement a robust hand tracking system. The system leverages machine learning techniques to detect and track hands in real-time, identifying 20 key landmarks on each hand. These landmarks corresponds to crucial points on the hand, such as finger joints and tips."
+,Wise-Wizard/Intrusion-Detection-BTP,"Using Sampling Techniques, this project aims to solve the class imbalance problem in detecting various types of Network Intrusions via the use of Machine Learning and Deep Learning Frameworks. "
+,Nehachandavari/GAN_Project,"Generative Adversarial Networks (GANs) are machine learning frameworks where a generator creates synthetic data and a discriminator evaluates it, producing high-quality, realistic outputs. They are valuable for applications like image generation and data augmentation, especially when real-world data is hard to collect or expensive."
+,imjohnzakkam/ARC-OpenBench,"An open-source toolkit and benchmarking suite for the ARC challenge, providing a modular and extensible framework for developing, training, and evaluating machine learning models."
+,gregory-kyro/CardioGenAI,CardioGenAI: A Machine Learning-Based Framework for Re-Engineering Drugs for Reduced hERG Liability
+,tum-pbs/PhiFlow,A differentiable PDE solving framework for machine learning
+,uogbuji/mlx-notes,Shared personal notes created while working with the Apple MLX machine learning framework
+,pearsonkyle/Nbody-AI,"A python 3 package for generating N-body simulations, computing transit timing variations (TTV) and retrieving orbit parameters from TTV measurements within a Bayesian framework using machine learning"
+,lanl/ALF,A framework for performing active learning for training machine-learned interatomic potentials.
+,mmrmilon/MachineLearningDotNet,"ML.NET is an open-source, cross-platform machine learning framework developed by Microsoft. It enables .NET developers to build, train, and deploy custom machine learning models using C#."
+,lukagrbcic/MLInverseDesignFrameworkData,"Data for the manuscript ""Efficient Inverse Design Optimization through Multi-fidelity Simulations, Machine Learning, and Boundary Refinement Strategies"" by Luka Grbcic (LBNL), Juliane Mller (NREL), and Wibe Albert de Jong (LBNL), 2024."
+,higgsfield-ai/higgsfield,"Fault-tolerant, highly scalable GPU orchestration, and a machine learning framework designed for training models with billions to trillions of parameters"
+,KOSASIH-CORP/nexuscore-smart-city-platform,"NexusCore is a comprehensive, AI-powered platform that integrates IoT devices, blockchain technology, and machine learning to create a hybrid, cyber-physical system for smart cities. This project would involve developing a robust IoT framework, AI-driven analytics, and a decentralized, blockchain-based data management system."
+,Mirko-A/minitorch,A machine learning framework written from scratch for educational purposes. Inspired by PyTorch and tinygrad.
+,aimclub/FEDOT,Automated modeling and machine learning framework FEDOT
+,dotnet/machinelearning-samples,"Samples for ML.NET, an open source and cross-platform machine learning framework for .NET."
+,Taha0229/UNetR-MachineLearning,"Implemented research paper on UNETR on a custom multi-class dataset,  built modular pipelines, served the model as REST API, developed the backend on Django REST Framework, deployed on AWS, developed frontend on Next.Js, deployed on Vercel. Implemented MLOps and DevOps."
+,20NN1A1220/Online-Phishing-URL-Detection-Using-Machine-Learning-Techniques-and-Flask-Framework,
+,awslabs/graphstorm,Enterprise graph machine learning framework for billion-scale graphs for ML scientists and data scientists.
+,kbdsbx/erud,This is a tiny machine learning framework.
+,778569/Regression-model-selection,"Automated machine learning framework for regression and classification. It supports various regression models, including linear regression, decision trees, and more, with automatic tuning and model selection. In here data set is Combined Cycle Power Plant which included 10000- instances."
+,cirosantilli/china-dictatorhsip-7,"Anti Chinese government propaganda. https://github.com/cirosantilli/china-dictatorship backup.  996.ICU709Friends who live in China and have real name on account, please don't star this repo, or else the police might pay you a visit.  Home to the mega-FAQ, news compilation, restaurant and music recommendations.Heil Xi . "
+,JackVittori/QML-early_exit,A repositories that contains strategies about how to implement Early-Exit in a Quantum Machine Learning Framework 
+,DeLaphante/CynkyAutomation,"Powered by Selenium, Specflow and ML.Net with detailed HTML reporting, Machine Learning Analysis and Logging capabilities - CynkyAutomation framework can handle any website that is built using AJAX, React, AngularJS, Vue.js, Single Page Applications, Salesforce, Dynamics 365 CRM and many more."
+,RichaSavant/Building-Machine-Learning-Solutions-for-O-RAN-Use-Cases-in-5G-NR-Networks-INTERNSHIP-Aug_2023,"This project focuses on developing machine learning solutions for various use cases within 5G New Radio (NR) networks, specifically under the Open Radio Access Network (O-RAN) framework."
 ,SFETNI/PINNs_MPF--a-Physics-Informed-Neural-Network-for-Multi-Phase-Field-problems,"PINNs-MPF is a comprehensive framework designed for simulating interface dynamics using Physics-Informed Neural Networks (PINNs). Leveraging machine learning techniques, this framework offers an efficient implementation for the multi-phase-field model"
-,appsquire/machine_learning_with_python,A blog post that introduces how machine learning can power applications through the Python framework Streamlit and the machine learning library XGBoost.
-,TwoAiDevelopers/DeepAIKit,"DeepAIKit is an open-source library developed entirely from scratch to provide comprehensive tools for machine learning and deep learning. Without relying on existing frameworks like scikit-learn, PyTorch, or TensorFlow, DeepAIKit simplifies the development, training, and deployment of ML and DL models."
-,TobyMercer/Automating-frequentist-NMA-with-ML,"Automating frequentist network meta-analysis using machine learning. This project streamlines the NMA process by incorporating data preprocessing, model selection, hyperparameter tuning, and evaluation. The goal is to provide a reusable framework for comparing multiple interventions."
-,josephOkereke/ML_Framework,Creating a new Zig Machine Learning Framework
+,RauPro/Torogoz-Trade-Engine,Torogoz Trade Engine is a trading framework for MT5 that uses machine learning and personalized indicators.
+,IronMerc-spec/Basic-PyTorch-Networks,Repository to hold skeleton frameworks for basic machine learning networks 
+,waefrebeorn/Moe-KAN,"Moe-KAN integrates KolmogorovArnold Networks (KANs) into a Mixture of Experts (MoE) framework, enhancing efficiency and performance. Inspired by a suggestion from Frazer on Discord, this project combines the strengths of MoE and KANs for advanced machine learning tasks."
+,jmjaaseth/masterthesis,"Python framework for quantum machine learning, developed for my master thesis."
+,Jorge-Alda/mlinoe,mlinoe (machine learning in observables explanation) is a python package that provides a framework to compare a collection of physical models and select the model that is more likely to reproduce the experimental constraints.
+,as1mple/ai-hydra-template,"Introducing ai-hydra-template: a versatile machine learning project template. It features a streamlined data preprocessing pipeline, model selection capabilities, and automated model training. The integration of the Hydra framework simplifies configuration, while added logging and updated documentation enhance usability."
+,Apra-Labs/ApraPipes,A pipeline framework for developing video and image processing application. Supports multiple GPUs and Machine Learning tooklits
+,openlangrid/mlgrid-services,A framework to serve various generative AIs and other machine learning functions via WebSocket and JSONRPC.
+,Mac-007/Hyperparameter-optimization-using-Optuna-framework,"""Optimize machine learning model performance effortlessly with this repository showcasing hyperparameter tuning using the Optuna framework."""
+,FatiihSarikaya/BreastCancer_ML, Interactive machine-learning web application using the Streamlit framework for Breast Cancer. I used the Breast Cancer Wisconsin (Diagnostic) Data Set for my project.
+,Wittelab/orchid,"A novel management, annotation, and machine learning framework for analyzing cancer mutations "
+,skyksl066/this-or-that,This project is a Vue.js application that uses TensorFlow.js to predict image content and display predictions. It demonstrates the integration of machine learning with a front-end web framework.
+,WeijieChen2017/SharkSeagrass,"""DolphinCoral"" is a machine learning project that synthesizes CT images from PET scans using advanced VQ encoder-decoder frameworks and innovative model architectures."
+,AashaNagar/Machine-Learning-Framework,
+,unitaryfund/pennylane-qrack,The PennyLane-Qrack plugin integrates the Qrack quantum computing framework with PennyLane's quantum machine learning capabilities.
+,Tanwar-12/PYTORCH,"PyTorch is an open-source machine learning library developed by Facebook's AI Research lab (FAIR). It is widely used for deep learning applications and is known for its ease of use, flexibility, and dynamic computation graph, which allows for more intuitive and flexible model building compared to static graph frameworks like TensorFlow."
+,OpendTect/dgbpy,dgbpy is a framework for research and deployment of machine learning models from seismic and well data.
+,github2mahesh/Big-Data-Analytics,"This repository showcases lab assignments completed in a Big Data Analytics course. It provides examples of working with various technologies and frameworks for processing and analyzing large datasets, including SQL, Spark, Spark SQL, and Machine Learning with Spark."
+,GeoNosX/Spam-vs-Ham-Classifier,"This project is an implementation of a machine learning classifier designed to distinguish between spam (unsolicited or unwanted messages) and ham (legitimate messages) in text data. Built using Python and popular machine learning libraries like scikit-learn, it provides a robust framework for classifying text data into spam or ham categories."
+,qooksgit/hep-pytorch,Awesome machine-learning framework for high energy phisics
+,mala-project/mala,Materials Learning Algorithms. A framework for machine learning materials properties from first-principles data.
+,pat2echo/AI-Project-Starter-Pack,"The AI Project Starter Pack is a meticulously structured directory and module framework designed for creating machine learning and data science projects. This starter pack aims to streamline the project setup process, helping data scientists and developers organize their code, data, and documentation efficiently. "
+,devyanshbatra/TENSOR-FLOW,"TensorFlow is an open-source machine learning framework developed by Google Brain, primarily used for deep learning applications. With TensorFlow, you can build, train, and deploy various machine learning models efficiently."
+,R300-AI/ultralytics,"This repository contains Ultralytics v8.2.0, specifically packaged to support the `ultralytics-train-export` project. The goal of this repository is to provide a Docker image that simplifies the process of training and exporting machine learning models using the Ultralytics framework."
+,Jithin75/mlp_scratch,"Explore a customizable neural network framework in C++ with features for designing, training, and analyzing models. Visualize loss graphs and conduct data analytics post-training. Dive into machine learning implementation from scratch."
+,fff-rs/juice,The Hacker's Machine Learning Engine
+,imSkyAK/MultiDisease-predictor,This is a Multiple disease predictor website with an interactive user UI . It is based on the continuous machine learning algorithm . It is developed using python language and html templates . It is developed on the Flask framework
+,naresh95vn/Efficient-Feature-Based-Machine-Learning-Framework-for-Phishing-Alert-main,
+,irdkwmnsb/visualizer,Visualizer (name is subjected to be changed later) is a framework and resource to allow people to create and use visualizers of different computer science and machine learning algorithms.
+,nanthini-nagarajan/Machine-learning-model,"This is a PySpark code that performs various data preprocessing, feature engineering, and machine learning tasks on a network traffic dataset. Frameworks and Libraries used in this projects are PySpark, Spark MLlib and NumPy."
+,hsuehyt/CheckCudaVersion,This repository contains a Python script to check the installed CUDA version using PyTorch. It helps ensure compatibility with machine learning frameworks that require GPU acceleration.
+,IntelPython/scikit-learn_bench,"scikit-learn_bench benchmarks various implementations of machine learning algorithms across data analytics frameworks. It currently support the scikit-learn, DAAL4PY, cuML, and XGBoost frameworks for commonly used machine learning algorithms."
+,dantegates/porter,porter is a framework for exposing machine learning models via REST APIs.
+,aakashsyadav1999/building_energy_prediction,"This project provides a framework for building energy prediction models. It includes components for data ingestion, transformation, validation, evaluation, and model training, along with utilities for logging, handling exceptions, and managing configurations. This project offers a comprehensive framework for developing machine learning models."
+,Aishwar1/Machine-Learning-Project,Titanic Survivors Prediction - using Tensorflow framework and Linear Regression algorithm. Classification Model - On Iris dataset using Deep Neural Network(DNN) and LinearClassifier. Hidden Markov Models - Weather Forecasting for multiple days using the predictive model.
+,NNPDF/nnpdf,An open-source machine learning framework for global analyses of parton distributions.
+,ankumar/Programming-machine-learning,"The landscape of machine learning (ML) is constantly evolving with new techniques, tools, and frameworks emerging at a rapid pace."
+,ANL-CEEESA/MIPLearn,Framework for solving discrete optimization problems using a combination of Mixed-Integer Linear Programming (MIP) and Machine Learning (ML)
+,Eblazecode/MACHINE-LEARNING-JOURNEY,"This contains all the codes, articles,books materials  and frameworks toward machine learning "
+,Alientation/Machine-Learning-In-C,neural network framework in c
+,kanishk2909/IPL-Win-predictor-Using-Python,"Developed an IPL (Indian Premier League) win predictor system using Python and Streamlit framework, leveraging data analysis and machine learning techniques."
+,samarjit-sahoo/Machine_Learning,"Explore my curated collection of machine learning repositories! Discover diverse resources, algorithms, datasets, and frameworks for all skill levels. Dive into research, master tools, or contribute to the community. Let's embark on this limitless journey together! Happy coding and learning!"
+,rdsea/ROHE,An orchestration framework for End-to-End Machine Learning Serving with Resource Optimization on Heterogeneous Edge
+,EbinJA/V.E.R.D-Net,A Machine Learning framework that converts dimly lit videos into well-lit ones and predicts the action performed in the video
+,PRITHIVSAKTHIUR/How-to-run-huggingface-spaces-on-local-machine-demo,"Running Hugging Face Spaces on a local machine / colab T4 GPU involves several steps. Hugging Face Spaces is a platform to host machine learning demos and applications using Streamlit, Gradio, or other frameworks."
+,SeldonIO/seldon-core,"An MLOps framework to package, deploy, monitor and manage thousands of production machine learning models"
+,vedpbharti/Machine-Learning-Framework,
+,SCAI-BIO/causal-npi-effects,A causal machine learning framework to assess effects of non-pharmaceutical interventions on pandemic disease spread.
+,sanchitbajaj123/ECO-INNOVATIVE,"Eco Innovate is a pioneering project dedicated to transforming agricultural practices through the application of cutting-edge deep learning techniques. Developed using Keras and TensorFlow frameworks, Eco Innovate utilizes state-of-the-art machine learning algorithms to predict crop yields and detect diseases, empowering farmers ."
+,Azure/PyRIT,The Python Risk Identification Tool for generative AI (PyRIT) is an open access automation framework to empower security professionals and machine learning engineers to proactively find risks in their generative AI systems.
+,SegevSi/Hand-Gesture-Classification,"Hand Gesture Classification is a Python project that uses computer vision and machine learning to classify hand gestures in real-time. By leveraging the MediaPipe framework for hand landmark detection and TensorFlow for model training, this system captures live webcam video, detects hand poses, and predicts gesture categories. "
