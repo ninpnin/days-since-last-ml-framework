@@ -1,37 +1,37 @@
 name,full_name,description,created_at,pushed_at,is_framework
-tensorflow,tensorflow/tensorflow,An Open Source Machine Learning Framework for Everyone,2015-11-07T01:19:20Z,2025-07-16T09:37:34Z,yes
+tensorflow,tensorflow/tensorflow,An Open Source Machine Learning Framework for Everyone,2015-11-07T01:19:20Z,2025-07-17T09:38:52Z,yes
 LightGBM,microsoft/LightGBM,"A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks.",2016-08-05T05:45:50Z,2025-07-15T14:25:30Z,yes
-Paddle,PaddlePaddle/Paddle,PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice &,2016-08-15T06:59:08Z,2025-07-16T09:25:14Z,yes
+Paddle,PaddlePaddle/Paddle,PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice &,2016-08-15T06:59:08Z,2025-07-17T09:27:24Z,yes
 rasa,RasaHQ/rasa,"   Open source machine learning framework to automate text- and voice-based conversations: NLU, dialogue management, connect to Slack, Facebook, and more - Create chatbots and voice assistants",2016-10-14T12:27:49Z,2025-07-14T14:19:23Z,yes
 MultiScaleArrays.jl,SciML/MultiScaleArrays.jl,A framework for developing multi-scale arrays for use in scientific machine learning (SciML) simulations,2016-10-20T06:39:02Z,2025-06-24T13:58:15Z,yes
 seldon-core,SeldonIO/seldon-core,"An MLOps framework to package, deploy, monitor and manage thousands of production machine learning models",2017-12-20T14:51:54Z,2025-07-16T09:43:09Z,yes
-nnpdf,NNPDF/nnpdf,An open-source machine learning framework for global analyses of parton distributions.,2018-01-19T14:30:29Z,2025-07-16T08:59:03Z,yes
+nnpdf,NNPDF/nnpdf,An open-source machine learning framework for global analyses of parton distributions.,2018-01-19T14:30:29Z,2025-07-16T10:13:29Z,yes
 spiking-learn,dartl0l/spiking-learn,Framework for machine learning with spiking neural networks,2018-02-06T19:18:08Z,2025-06-25T17:09:26Z,yes
-ModelingToolkit.jl,SciML/ModelingToolkit.jl,An acausal modeling framework for automatically parallelized scientific machine learning (SciML) in Julia. A computer algebra system for integrated symbolics for physics-informed machine learning and automated transformations of differential equations,2018-02-27T01:36:26Z,2025-07-16T07:11:30Z,yes
+ModelingToolkit.jl,SciML/ModelingToolkit.jl,An acausal modeling framework for automatically parallelized scientific machine learning (SciML) in Julia. A computer algebra system for integrated symbolics for physics-informed machine learning and automated transformations of differential equations,2018-02-27T01:36:26Z,2025-07-16T13:50:57Z,yes
 linfa,rust-ml/linfa,A Rust machine learning framework.,2018-04-05T07:03:30Z,2025-07-09T07:18:09Z,yes
-heat,helmholtz-analytics/heat,Distributed tensors and Machine Learning framework with GPU and MPI acceleration in Python,2018-05-17T12:16:27Z,2025-07-15T12:10:37Z,yes
+heat,helmholtz-analytics/heat,Distributed tensors and Machine Learning framework with GPU and MPI acceleration in Python,2018-05-17T12:16:27Z,2025-07-17T08:51:27Z,yes
 MLJ.jl,JuliaAI/MLJ.jl,A Julia machine learning framework,2018-08-01T06:29:39Z,2025-07-14T20:50:15Z,yes
 tensoralloy,Bismarrck/tensoralloy,Tensor-graph based machine learning framework for metal alloys.,2018-10-15T01:29:52Z,2025-06-10T14:13:54Z,yes
-transformers,huggingface/transformers," Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",2018-10-29T13:56:00Z,2025-07-16T09:32:46Z,yes
-sktime,sktime/sktime,A unified framework for machine learning with time series,2018-11-06T15:08:24Z,2025-07-16T09:15:39Z,yes
-tensorflow-federated,google-parfait/tensorflow-federated,An open-source framework for machine learning and other computations on decentralized data.,2018-12-12T23:15:35Z,2025-07-15T23:15:51Z,yes
+transformers,huggingface/transformers," Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",2018-10-29T13:56:00Z,2025-07-17T09:42:11Z,yes
+sktime,sktime/sktime,A unified framework for machine learning with time series,2018-11-06T15:08:24Z,2025-07-16T18:41:45Z,yes
+tensorflow-federated,google-parfait/tensorflow-federated,An open-source framework for machine learning and other computations on decentralized data.,2018-12-12T23:15:35Z,2025-07-17T07:52:25Z,yes
 learning_machines_robobo,ci-group/learning_machines_robobo,Framework for the Learning Machines Course at VU Amsterdam,2019-01-02T14:34:16Z,2025-06-11T09:52:03Z,yes
-ytopt,ytopt-team/ytopt,ytopt: machine-learning-based autotuning and hyperparameter optimization framework using Bayesian Optimization,2019-01-15T18:31:40Z,2025-06-21T00:43:39Z,yes
+ytopt,ytopt-team/ytopt,ytopt: machine-learning-based autotuning and hyperparameter optimization framework using Bayesian Optimization,2019-01-15T18:31:40Z,2025-07-16T17:55:00Z,yes
 eggroll,FederatedAI/eggroll,A Simple High Performance Computing Framework for [Federated] Machine Learning,2019-07-08T06:12:46Z,2025-06-20T02:27:45Z,yes
-FEDOT,aimclub/FEDOT,Automated modeling and machine learning framework FEDOT,2020-01-13T12:48:37Z,2025-07-13T12:01:34Z,yes
+FEDOT,aimclub/FEDOT,Automated modeling and machine learning framework FEDOT,2020-01-13T12:48:37Z,2025-07-16T15:48:14Z,yes
 MIPLearn,ANL-CEEESA/MIPLearn,Framework for solving discrete optimization problems using a combination of Mixed-Integer Linear Programming (MIP) and Machine Learning (ML),2020-01-22T18:18:26Z,2025-06-12T16:16:32Z,yes
 aiko_services,geekscape/aiko_services,"Distributed service framework using asynchronous messages supporting IoT, Machine Learning and Video",2020-03-02T04:06:53Z,2025-07-14T16:40:58Z,yes
 autogoal,gia-uh/autogoal,A Python framework for program synthesis with a focus on Automated Machine Learning.,2020-04-14T19:53:48Z,2025-05-30T18:10:07Z,yes
 NErlNet,leondavi/NErlNet,Nerlnet is a framework for research and development of distributed machine learning models on IoT,2020-05-13T03:34:41Z,2025-07-06T21:16:19Z,yes
 neoml,neoml-lib/neoml,Machine learning framework for both deep learning and traditional algorithms,2020-06-14T17:37:36Z,2025-07-15T13:18:13Z,yes
 DeepMol,BioSystemsUM/DeepMol,DeepMol: A Machine and Deep Learning Framework for Computational Chemistry,2020-09-08T14:47:20Z,2025-07-02T13:57:57Z,yes
-ApraPipes,Apra-Labs/ApraPipes,A pipeline framework for developing video and image processing application. Supports multiple GPUs and Machine Learning tooklits,2020-11-09T10:29:06Z,2025-07-15T05:55:06Z,yes
+ApraPipes,Apra-Labs/ApraPipes,A pipeline framework for developing video and image processing application. Supports multiple GPUs and Machine Learning tooklits,2020-11-09T10:29:06Z,2025-07-17T04:49:48Z,yes
 ivy,ivy-llc/ivy,Convert Machine Learning Code Between Frameworks,2021-01-19T08:37:25Z,2025-07-16T09:11:10Z,yes
 torchquantum,mit-han-lab/torchquantum,"A PyTorch-based framework for Quantum Classical Simulation, Quantum Machine Learning, Quantum Neural Networks, Parameterized Quantum Circuits with support for easy deployments on real quantum computers.",2021-02-04T19:42:30Z,2025-07-09T01:47:30Z,yes
 mala,mala-project/mala,Materials Learning Algorithms. A framework for machine learning materials properties from first-principles data.,2021-03-31T11:40:38Z,2025-07-13T20:23:46Z,yes
 edge-ml,edge-ml/edge-ml,Open source web based machine learning framework for MCUs,2021-08-08T18:15:48Z,2025-06-10T13:29:34Z,yes
-MLPro,fhswf/MLPro,MLPro - The Integrative Middleware Framework for Standardized Machine Learning in Python,2021-08-10T16:57:36Z,2025-07-15T16:38:34Z,yes
-pyBIA,Professor-G/pyBIA,"Machine learning-based classification framework for detecting spatially extended and diffuse emission in the high redshift universe, using multi-band broadband imaging.",2021-09-09T23:13:15Z,2025-07-15T23:07:19Z,yes
+MLPro,fhswf/MLPro,MLPro - The Integrative Middleware Framework for Standardized Machine Learning in Python,2021-08-10T16:57:36Z,2025-07-16T14:22:52Z,yes
+pyBIA,Professor-G/pyBIA,"Machine learning-based classification framework for detecting spatially extended and diffuse emission in the high redshift universe, using multi-band broadband imaging.",2021-09-09T23:13:15Z,2025-07-16T22:35:17Z,yes
 ml,midenda/ml,Machine Learning framework written from scratch in C++,2021-09-11T19:53:56Z,2025-06-16T13:30:19Z,yes
 mlcolvar,luigibonati/mlcolvar,A unified framework for machine learning collective variables for enhanced sampling simulations,2021-09-21T21:32:04Z,2025-06-20T09:20:56Z,yes
 Geochemistrypi,ZJUEarthData/Geochemistrypi,an open-sourced highly automated machine learning Python framework for data-driven geochemistry discovery,2021-10-13T01:53:14Z,2025-06-28T02:12:50Z,yes
@@ -41,9 +41,9 @@ ABLkit,AbductiveLearning/ABLkit,"An efficient Python toolkit for Abductive Learn
 secretflow,secretflow/secretflow,A unified framework for privacy-preserving data analysis and machine learning,2022-04-15T09:07:44Z,2025-07-16T02:13:19Z,yes
 DeepGNN,microsoft/DeepGNN,DeepGNN is a framework for training machine learning models on large scale graph data.,2022-04-21T17:24:28Z,2025-07-15T20:57:51Z,yes
 mlgrid-services,openlangrid/mlgrid-services,A framework to serve various generative AIs and other machine learning functions via WebSocket and JSONRPC.,2022-05-10T08:30:07Z,2025-06-26T04:53:57Z,yes
-paxml,google/paxml,"Pax is a Jax-based machine learning framework for training large scale models. Pax allows for advanced and fully configurable experimentation and parallelization, and has demonstrated industry leading model flop utilization rates.",2022-06-14T16:04:48Z,2025-07-07T17:54:15Z,yes
+paxml,google/paxml,"Pax is a Jax-based machine learning framework for training large scale models. Pax allows for advanced and fully configurable experimentation and parallelization, and has demonstrated industry leading model flop utilization rates.",2022-06-14T16:04:48Z,2025-07-16T22:09:55Z,yes
 matbench-discovery,janosh/matbench-discovery,An evaluation framework for machine learning models simulating high-throughput materials discovery.,2022-06-20T18:32:44Z,2025-07-12T15:18:41Z,yes
-apax,apax-hub/apax,A flexible and performant framework for training machine learning potentials.,2022-11-18T12:31:19Z,2025-07-15T08:21:35Z,yes
+apax,apax-hub/apax,A flexible and performant framework for training machine learning potentials.,2022-11-18T12:31:19Z,2025-07-16T21:14:06Z,yes
 ROHE,rdsea/ROHE,An orchestration framework for End-to-End Machine Learning Serving with Resource Optimization on Heterogeneous Edge,2022-11-24T11:28:44Z,2025-06-11T08:50:42Z,yes
 graphstorm,awslabs/graphstorm,Enterprise graph machine learning framework for billion-scale graphs for ML scientists and data scientists.,2022-12-02T11:20:38Z,2025-07-12T06:31:47Z,yes
 pybroker,edtechre/pybroker,Algorithmic Trading in Python with Machine Learning,2023-01-16T01:11:52Z,2025-07-02T23:50:55Z,yes
@@ -51,10 +51,11 @@ Research,RamanEbrahimi/Research,Implementing the mathematical modeling and machi
 grundner23james_EquationDiscovery_CloudCover,EyringMLClimateGroup/grundner23james_EquationDiscovery_CloudCover,"A hierarchical modeling framework to discover new machine learning-based equations for cloud cover, including symbolic regression",2023-03-20T13:04:23Z,2025-05-28T11:56:18Z,yes
 gomlx,gomlx/gomlx,GoMLX: An Accelerated Machine Learning Framework For Go,2023-04-23T19:30:48Z,2025-07-15T23:58:53Z,yes
 CalFram,lorenzofamiglini/CalFram,Calibration Framework for Machine Learning and Deep Learning,2023-05-10T16:28:27Z,2025-05-30T16:23:40Z,yes
-The-Lord-of-The-Words-The-two-frameworks,SoyGema/The-Lord-of-The-Words-The-two-frameworks,Translation exploration with Transformers and Machine Learning Experimentation Platfroms,2023-05-30T19:30:15Z,2025-07-15T09:35:07Z,yes
+mobiml,movingpandas/mobiml,Framework for machine learning from movement data,2023-05-27T10:41:13Z,2025-07-16T18:02:33Z,yes
+The-Lord-of-The-Words-The-two-frameworks,SoyGema/The-Lord-of-The-Words-The-two-frameworks,Translation exploration with Transformers and Machine Learning Experimentation Platfroms,2023-05-30T19:30:15Z,2025-07-16T17:40:20Z,yes
 Football-1-vs-1-Shot-Taking-Situations-Analysis,calvinyeungck/Football-1-vs-1-Shot-Taking-Situations-Analysis,"Repo for the paper ""A Strategic Framework for Optimal Decisions in Football 1-vs-1 Shot-Taking Situations: An Integrated Approach of Machine Learning, Theory-Based Modeling, and Game Theory""",2023-06-19T02:31:36Z,2025-07-13T04:37:15Z,yes
 molpot,MolCrafts/molpot,[WIP] Machine Learning Molecular ForceField Training and Deploying Framework,2023-07-01T12:30:01Z,2025-06-07T06:44:37Z,yes
-anacostia-pipeline,anacostiaAI/anacostia-pipeline,Anacostia is a framework for creating machine learning operations (MLOps) pipelines,2023-07-14T19:44:55Z,2025-07-14T23:29:22Z,yes
+anacostia-pipeline,anacostiaAI/anacostia-pipeline,Anacostia is a framework for creating machine learning operations (MLOps) pipelines,2023-07-14T19:44:55Z,2025-07-16T23:31:18Z,yes
 IntelELM,thieu1995/IntelELM,IntelELM: A Python Framework for Intelligent Metaheuristic-based Extreme Learning Machine,2023-08-08T13:18:41Z,2025-06-04T09:24:37Z,yes
 X-ANFIS,thieu1995/X-ANFIS,X-ANFIS: An Extensible and Cross-Learning ANFIS Framework for Machine Learning Tasks,2023-08-08T15:27:47Z,2025-06-07T11:08:24Z,yes
 Marquetry,SHIMA0111/Marquetry,Marquetry is the simple machine/deep learning framework,2023-08-10T16:49:58Z,2025-07-06T07:20:32Z,yes
@@ -63,20 +64,20 @@ MASPY,laca-is/MASPY,A Python Framework for Multi-Agent Programming with Machine 
 reactive_active_learning,siddarthachar/reactive_active_learning,This is an active learning framework that uses single-ended growing string method and neural networks to build machine learning forcefields that quickly understands reactive energy landscape.,2023-09-12T17:01:36Z,2025-06-06T21:37:47Z,yes
 aliad,AlkaidCheng/aliad,Framework for anomaly detection with machine learning,2023-10-08T05:38:29Z,2025-06-01T03:53:51Z,yes
 MoIma,fate1997/MoIma,Molecule Imagination: A framework aims to accelare machine learning in Chemistry,2023-11-01T18:07:26Z,2025-06-03T21:18:25Z,yes
-C-ML,jaywyawhare/C-ML,Machine learning framework written in C.,2023-12-04T11:17:09Z,2025-05-29T19:15:36Z,yes
-Tensor-Array,Tensor-Array/Tensor-Array,A C++ machine learning framework/library.,2023-12-20T02:54:53Z,2025-07-16T04:22:30Z,yes
-Tensor-Array-Python,Tensor-Array/Tensor-Array-Python,A high level frontend Python machine learning framework/library for Tensor Array.,2023-12-24T13:50:04Z,2025-07-16T05:41:52Z,yes
+C-ML,jaywyawhare/C-ML,Machine learning framework written in C.,2023-12-04T11:17:09Z,2025-07-17T00:51:31Z,yes
+Tensor-Array,Tensor-Array/Tensor-Array,A C++ machine learning framework/library.,2023-12-20T02:54:53Z,2025-07-17T09:41:53Z,yes
+Tensor-Array-Python,Tensor-Array/Tensor-Array-Python,A high level frontend Python machine learning framework/library for Tensor Array.,2023-12-24T13:50:04Z,2025-07-17T06:25:50Z,yes
 nnbench,aai-institute/nnbench,A small framework for benchmarking machine learning models.,2024-01-11T10:54:12Z,2025-06-06T09:34:06Z,yes
 Minerva,discovery-unicamp/Minerva,Minerva is a framework for training machine learning models for researchers.,2024-01-11T18:13:09Z,2025-06-09T17:06:36Z,yes
 PerfVec,PerfVec/PerfVec,A generalizable machine learning-based performance modeling framework.,2024-02-02T14:13:32Z,2025-06-09T15:21:43Z,yes
 grads,DatoXx8/grads,A machine learning framework in Zig and OpenCL.,2024-02-03T14:32:26Z,2025-07-11T14:33:14Z,yes
 MoleculeBind,lamalab-org/MoleculeBind,"MoleculeBind is a machine-learning framework for chemistry, where we target unifying various molecular representations into one common latent space (SELFIES, SMILES, Graph, Structures, Fingerprints, Molecular Spectra)",2024-03-08T10:55:30Z,2025-07-10T06:12:18Z,yes
 equitrain,BAMeScience/equitrain,Equitrain: A Unified Framework for Training and Fine-tuning Machine Learning Interatomic Potentials,2024-03-21T08:36:52Z,2025-06-20T13:17:18Z,yes
-HLSFactory,sharc-lab/HLSFactory,HLSFactory: A Framework Empowering High-Level Synthesis Datasets for Machine Learning and Beyond,2024-03-28T19:06:57Z,2025-07-12T19:58:34Z,yes
+HLSFactory,sharc-lab/HLSFactory,HLSFactory: A Framework Empowering High-Level Synthesis Datasets for Machine Learning and Beyond,2024-03-28T19:06:57Z,2025-07-16T17:08:21Z,yes
 FSM-PK,waleedgeo/FSM-PK,"The repository contains data for the paper titled""High-resolution flood susceptibility mapping and exposure assessment in Pakistan: An integrated artificial intelligence, machine learning and geospatial framework""",2024-04-02T08:10:45Z,2025-06-03T05:34:32Z,yes
-EnDM-CPP,tudou1231/EnDM-CPP,A Multi-View Framework Based on Deep Learning and Machine Learning for Identifying Cell-Penetrating Peptides with Transformers and Analyzing Sequence Characterizations,2024-04-13T03:55:53Z,2025-05-27T18:37:52Z,yes
 MaterialsFramework,dogusariturk/MaterialsFramework,"A modular Python framework for deploying, benchmarking, and analyzing state-of-the-art machine learning potentials and simulation workflows in materials science.",2024-04-17T17:53:29Z,2025-06-24T15:19:35Z,yes
 GreatLakes-TempSensors,great-lakes-ai-lab/GreatLakes-TempSensors,Collaborative repository for optimizing the placement of temperature sensors in the Great Lakes using the DeepSensor machine learning framework. Aiming to enhance the quantitative understanding of surface temperature variability for better environmental monitoring and decision-making.,2024-05-06T00:46:32Z,2025-06-07T17:34:04Z,yes
+ht-occupational-plus,jkvasnicka/ht-occupational-plus,Machine-learning framework for predicting air exposures to organic chemicals in U.S. workplaces,2024-05-14T22:02:59Z,2025-07-16T21:24:29Z,yes
 jams-rs,gagansingh894/jams-rs,Rust based model serving solution for popular machine learning frameworks,2024-05-17T00:23:31Z,2025-05-30T02:03:08Z,yes
 BenchNIRS,HanBnrd/BenchNIRS,Benchmarking framework for machine learning with fNIRS,2024-05-18T09:03:38Z,2025-06-05T20:32:45Z,yes
 MAIT,PERSIMUNE/MAIT,"Medical artificial intelligence toolbox (MAIT): an explainable machine learning framework for binary classification, survival modelling, and regression analyses",2024-05-22T07:47:54Z,2025-07-04T15:09:43Z,yes
@@ -86,7 +87,7 @@ Data-and-Codes-for-Integrated-Design-Framework-for-Titanium-Aluminides-Through-I
 RAMPAGE,reverseame/RAMPAGE,RAMPAGE is a framework aimed at training and comparing machine learning models for the detection of Algorithmically Generated Domains.,2024-07-10T07:37:29Z,2025-06-24T19:47:51Z,yes
 lungscope,parkerhayashi/lungscope,Multimodal machine learning-based framework for overall survival prediction in non-small cell lung cancer,2024-07-25T13:36:21Z,2025-06-29T05:03:20Z,yes
 3DAnimals,3DAnimals/3DAnimals,3DAnimals: A machine learning framework for reconstructing articulated 3D animals from images,2024-07-25T20:17:35Z,2025-07-05T05:33:56Z,yes
-brain4j,brain4j-org/brain4j,Open-source machine learning framework for Java. Designed with speed and lightweight in mind.,2024-07-28T11:54:08Z,2025-07-15T23:06:31Z,yes
+brain4j,brain4j-org/brain4j,Open-source machine learning framework for Java. Designed with speed and lightweight in mind.,2024-07-28T11:54:08Z,2025-07-16T14:11:03Z,yes
 hyrax,lincc-frameworks/hyrax,Hyrax - A framework for machine learning in astronomy,2024-08-01T22:51:04Z,2025-07-15T23:17:07Z,yes
 CatBench,JinukMoon/CatBench,CatBench - Benchmark Framework of Machine Learning Interatomic Potentials in Adsorption Energy Predictions,2024-08-05T04:30:28Z,2025-06-11T13:45:01Z,yes
 discomat,UCL-DDMD/discomat,"Digital Materials Discovery Framework -  Integrating Computational Materials Modelling, Digitalisation of Materials Data, Machine Learning and Semantics  for accelerated Discovery of Materials  ",2024-08-12T15:58:37Z,2025-06-27T19:58:16Z,yes
@@ -110,11 +111,11 @@ oikan,silvermete0r/oikan,"OIKAN is a neuro-symbolic machine learning framework i
 sbi,nv-hiep/sbi,Machine learning inference framework for interstellar gas temperature in galaxies,2025-02-23T23:29:14Z,2025-06-08T02:25:05Z,yes
 OncoML,ArcaneLightning/OncoML,A machine learning framework using ScanPy and Tensorflow to predict anti-cancer drug efficacy and response. The goal is to enable personalized treatment strategies.,2025-03-01T06:35:44Z,2025-06-20T05:22:49Z,yes
 leanverifier,fraware/leanverifier,"Framework for specifying and proving propertiessuch as robustness, fairness, and interpretabilityof machine learning models using Lean 4.",2025-03-05T07:59:19Z,2025-07-10T03:03:28Z,yes
-tensor-vision,henriChevreux/tensor-vision,A visual-first approach to machine learning development and debugging. TensorVision is a lightweight framework that wraps PyTorch models to provide real-time visualization and debugging capabilities.,2025-03-07T01:05:24Z,2025-07-15T19:35:31Z,yes
+tensor-vision,henriChevreux/tensor-vision,A visual-first approach to machine learning development and debugging. TensorVision is a lightweight framework that wraps PyTorch models to provide real-time visualization and debugging capabilities.,2025-03-07T01:05:24Z,2025-07-16T18:23:49Z,yes
 AI_MODEL,JuliaF23/AI_MODEL,Machine Learning Framework. / Modelo de aprendizado de mquina.,2025-03-20T21:44:02Z,2025-05-30T18:33:43Z,yes
 alf-t5,matjsz/alf-t5,"ALF-T5 - Adaptative Language Framework for T5 is a Machine Learning framework for Neural Machine Translation Systems training and, subsequently, bidirectional translation.",2025-03-22T01:37:28Z,2025-06-21T02:08:47Z,yes
 Wildfire-Prediction-using-Distributed_ML_H2O,Sudam23/Wildfire-Prediction-using-Distributed_ML_H2O,Distributed Machine Learning using the H2O framework with Random Forest Classifier.,2025-03-23T14:09:10Z,2025-07-14T19:21:24Z,yes
-CrypTothML,c-motono/CrypTothML,A framework for cryptic pocket prediction using MSMD and machine learning,2025-03-30T02:50:59Z,2025-07-11T02:04:14Z,yes
+CrypTothML,c-motono/CrypTothML,A framework for cryptic pocket prediction using MSMD and machine learning,2025-03-30T02:50:59Z,2025-07-17T03:06:38Z,yes
 spatial-selectivity-estimation-ext,lias-laboratory/spatial-selectivity-estimation-ext,"Framework for spatial selectivity estimation using machine learning and optimizer feedback. Addresses both RCC filters and distance-based filters by transforming estimation into regression task. Compares neural networks, tree-based models and instance-based approaches against traditional RTree and histogram methods across 14 spatial datasets.",2025-04-01T08:04:20Z,2025-05-28T18:27:46Z,yes
 soybean-ai,quietbamboo/soybean-ai,A Novel Framework for Soybean Phenotype Prediction and Salient Loci Mining via Machine Learning and Interpretability Analysis,2025-04-01T08:31:56Z,2025-07-01T06:49:56Z,yes
 Theoretical_Frameworks_in_Machine_Learning,VaishnaviRSaralaya/Theoretical_Frameworks_in_Machine_Learning,,2025-04-03T11:07:51Z,2025-06-14T08:42:45Z,yes
@@ -130,19 +131,17 @@ X-ANFIS_examples,thieu1995/X-ANFIS_examples,"Code for case studies in paper ""X-
 property-driven-ml,tflinkow/property-driven-ml,"A generalised framework for property-driven machine learning, combining input region specification via hyper-rectangles with differentiable logics to compile logical constraints into loss.",2025-04-23T20:33:45Z,2025-06-22T23:58:12Z,yes
 Medicinal-plant-analysis,Shrinidhigit/Medicinal-plant-analysis,IoT Enabled Computer Vision and Machine Learning Framework for Identification and Analysis of Medicinal Leaves,2025-04-24T03:22:12Z,2025-06-10T08:30:38Z,yes
 gospel,fullscreen-triangle/gospel,"Python framework for comprehensive variant detection in whole genome sequences using advanced machine learning models for cross domain pattern recognition in fitness, pharmacogenetics and nutritional aspects of sprint running",2025-04-25T00:01:52Z,2025-06-21T15:51:33Z,yes
-PredicTick,mrturo/PredicTick,Framework for forecasting market direction using technical indicators and machine learning.,2025-04-26T21:24:50Z,2025-07-16T03:58:58Z,yes
+PredicTick,mrturo/PredicTick,Framework for forecasting market direction using technical indicators and machine learning.,2025-04-26T21:24:50Z,2025-07-16T23:13:14Z,yes
 skForget,PuscasRaul/skForget,machine learning framework for ai class,2025-04-27T08:44:39Z,2025-06-07T11:15:03Z,yes
 quantum-neural-network,coop-columb/quantum-neural-network,Quantum Neural Network Framework - A comprehensive implementation of quantum neural networks integrating quantum computing with classical machine learning.,2025-04-28T01:37:23Z,2025-07-01T12:28:42Z,yes
 PII-Detection-and-Anonymization,Kush-Mishra-403/PII-Detection-and-Anonymization,A robust framework for Detecting and Anonymizing Personally Identifiable Information (PII) in Financial Documents using hybrid rule-based Machine Learning and Natural Language Processing based techniques.,2025-04-28T14:13:45Z,2025-06-09T13:42:31Z,yes
 ml-experimentation-framework,marcaroland/ml-experimentation-framework,"A modular, extensible, and OOP-focused Python framework for running machine learning experiments with clean architecture, reusable components, and pluggable strategies.",2025-04-29T08:06:41Z,2025-05-31T19:43:13Z,yes
-ml-framework,michaelgadda/ml-framework,A ML framework including popular classic Machine Learning algorithms using just NumPy. ,2025-04-29T21:21:47Z,2025-05-28T02:32:00Z,yes
-tiny-ml-lib,sidsurakanti/tiny-ml-lib,a lightweight machine learning framework from scratch with minimal dependencies,2025-04-29T22:02:51Z,2025-07-16T03:39:19Z,yes
+tiny-ml-lib,sidsurakanti/tiny-ml-lib,a lightweight machine learning framework from scratch with minimal dependencies,2025-04-29T22:02:51Z,2025-07-17T01:41:02Z,yes
 EPFL-NWML-25,epanner/EPFL-NWML-25,A deep learning framework for automatic epileptic seizure detection in EEG recordings. Completed as part of the EPFL Network Machine Learning 2025 course.,2025-04-30T08:16:50Z,2025-07-03T09:06:42Z,yes
 A-HONEYPOT-WITH-MACHINE-LEARNING-BASED-DETECTION-FRAMEWORK-FOR-DEFENDING-DDOS-ATTACKS,Shivanipalle12/A-HONEYPOT-WITH-MACHINE-LEARNING-BASED-DETECTION-FRAMEWORK-FOR-DEFENDING-DDOS-ATTACKS,,2025-05-01T08:14:37Z,2025-06-23T06:22:56Z,yes
 Space-Radiation-Tolerant,r0nlt/Space-Radiation-Tolerant,"Space Labs AI presents: A radiation-tolerant machine learning framework enabling neural networks to operate reliably in space environments. Features adaptive protection, Reed-Solomon error correction, and breakthrough architecture optimizations that improve performance under radiation.",2025-05-02T10:04:34Z,2025-07-15T05:37:20Z,yes
 lunax,yangfa-zhang/lunax,Lunax is a machine learning framework specifically designed for the processing and analysis of tabular data.,2025-05-03T06:50:37Z,2025-06-17T03:13:57Z,yes
 daily-climate-time-series-machine-learning,Stickplick98/daily-climate-time-series-machine-learning,"Projet de fin d'anne pour le cours d'introduction aux frameworks de Machine Learning, Master en Architecture des systmes informatiques",2025-05-04T00:45:59Z,2025-06-14T20:32:54Z,yes
-SR-and-ML-Image-Noise-Reduction,paula-gomezlucas/SR-and-ML-Image-Noise-Reduction,Stochastic Resonance and Machine Learning Based Noise Reduction Framework,2025-05-04T11:29:40Z,2025-05-27T23:37:43Z,yes
 astrogea,FisGeoUnipg/astrogea,AstroGea is a Python-based framework designed to bridge the realms of astrophysics and geoscience through advanced machine learning and intuitive data visualization,2025-05-06T10:57:28Z,2025-07-04T08:30:49Z,yes
 Cultural-Ecosystem-Modelling,francesc30/Cultural-Ecosystem-Modelling,This is a methodological framework to model Cultural Ecosystem Services at large scales. It is composed by an Artificial Intelligence and a Machine Learning model.,2025-05-08T07:31:56Z,2025-07-09T15:48:05Z,yes
 Fepfm,Zong-my/Fepfm,Fepfm: A post-disturbance frequency extremes prediction framework for power systems based on machine learning,2025-05-09T20:00:46Z,2025-06-23T14:11:29Z,yes
@@ -158,12 +157,9 @@ CausalML---AD,ChristinaOON/CausalML---AD,"A novel causal machine learning framew
 NeuroForge,slavatlsn/NeuroForge,A framework that allows to perform machine learning on embedded devices. Light and efficient,2025-05-23T19:25:00Z,2025-06-10T06:35:53Z,yes
 PyE-Plus,MubashirWani/PyE-Plus,Multi-Criteria Decision Making (MCDM) Framework for Building Energy Systems with Expedited Computation using Machine Learning (ML) Techniques,2025-05-24T08:37:21Z,2025-07-14T09:09:46Z,yes
 PracticalLab1---Univariate-Linear-Regression-on-the-California-Housing-Prices-Dataset,Eris-Leksi/PracticalLab1---Univariate-Linear-Regression-on-the-California-Housing-Prices-Dataset,CSCN8010 - Foundations of Machine Learning Frameworks - Practical Lab 1 ,2025-05-26T18:04:10Z,2025-05-28T17:20:21Z,yes
-Advanced-Framework-for-Leaf-Disease-Detection-Using-Machine-Learning-and-MESA-Agent,Dorai-Sai-Charan/Advanced-Framework-for-Leaf-Disease-Detection-Using-Machine-Learning-and-MESA-Agent,,2025-05-27T16:01:45Z,2025-05-27T16:03:10Z,yes
 ml-ecolyzer,JomaMinoza/ml-ecolyzer,ML-EcoLyzer: Machine Learning Environmental Impact Analysis Framework,2025-05-27T22:17:30Z,2025-06-27T03:07:51Z,yes
 ReedsShepp-MLOps,HoomaanMoradi/ReedsShepp-MLOps,"An MLOps framework for developing, training, and deploying machine learning models aimed at solving the Reeds-Shepp path planning",2025-05-27T23:14:51Z,2025-06-14T22:09:54Z,yes
-Foundations-of-Machine-Learning-Frameworks,anonduke/Foundations-of-Machine-Learning-Frameworks,,2025-05-28T05:17:38Z,2025-05-28T05:17:38Z,yes
 Foundations-of-Machine-Learning-Frameworks-CSCN8010-,Yogesh-333/Foundations-of-Machine-Learning-Frameworks-CSCN8010-,,2025-05-28T05:22:52Z,2025-05-28T23:27:16Z,yes
-Chain-Defender-A-Blockchain-driven-Machine-Learning-Framework-For-App-Security,Sabha2209/Chain-Defender-A-Blockchain-driven-Machine-Learning-Framework-For-App-Security,,2025-05-28T05:27:09Z,2025-05-28T05:31:08Z,yes
 Hybrid-Machine-Learning-Approach-for-Cyberattacks-Correlation-and-Mitigation-in-Distribution-System,LINGAKARTHIK/Hybrid-Machine-Learning-Approach-for-Cyberattacks-Correlation-and-Mitigation-in-Distribution-System,"A hybrid machine learning framework for detecting, correlating, and mitigating cyberattacks in power distribution systems.",2025-05-28T07:24:10Z,2025-05-28T07:44:58Z,yes
 practical-lab,akondeti7046/practical-lab,Foundations of Machine Learning Frameworks - CSCN8010,2025-05-28T16:20:46Z,2025-05-29T05:28:57Z,yes
 Foundations-of-Machine-Learning-Frameworks---CSCN8010,nikitha2002-bot/Foundations-of-Machine-Learning-Frameworks---CSCN8010,,2025-05-28T17:38:33Z,2025-05-28T17:39:08Z,yes
@@ -249,7 +245,7 @@ wildlife-detection-framework,VaishnaviMarachi/wildlife-detection-framework,Creat
 Adaptive-machine-learning-framework-for-phishing-detection,venila880/Adaptive-machine-learning-framework-for-phishing-detection,,2025-07-01T15:18:33Z,2025-07-01T15:24:55Z,yes
 IndustrialSolarML,KU-Seungtae/IndustrialSolarML,Industrial Data-Driven Machine Learning Framework for Wafer Quality-Based Decision Making toward Smart Solar Cell Manufacturing,2025-07-01T23:47:25Z,2025-07-02T00:00:13Z,yes
 general-time-series-forecasting-framework,DimitrievD/general-time-series-forecasting-framework,A group of Machine Learning models not trained with data ,2025-07-02T08:25:11Z,2025-07-02T08:25:12Z,yes
-data-science-r-section,Andru-1987/data-science-r-section,"""Modelos de data science con R como lenguaje de programacion y sus frameworks para machine learning""",2025-07-02T09:31:58Z,2025-07-02T10:01:05Z,yes
+data-science-r-section,Andru-1987/data-science-r-section,"""Modelos de data science con R como lenguaje de programacion y sus frameworks para machine learning""",2025-07-02T09:31:58Z,2025-07-16T09:59:38Z,yes
 A-smart-framework-to-design-membranes-for-organic-micropollutants-removal,effortV/A-smart-framework-to-design-membranes-for-organic-micropollutants-removal,Organic micropollutants; machine  learning; data-mechanisms fusion,2025-07-02T09:33:47Z,2025-07-02T09:48:05Z,yes
 tensorflow-tensorflow,SigmaCandy/tensorflow-tensorflow,"A leading open-source framework for machine learning, neural networks, and AI researchused by developers and researchers globally .",2025-07-02T20:00:47Z,2025-07-02T20:01:09Z,yes
 MacroSignal,AnAAnnie/MacroSignal,A machine learning-based framework for extracting predictive macroeconomic alpha signals for U.S. equity selection.,2025-07-02T22:19:40Z,2025-07-08T22:36:25Z,yes
@@ -273,13 +269,13 @@ An-Ensemble-Machine-Learning-Framework-for-Predicting-NHDF,HUSTlwr/An-Ensemble-M
 Data-Centric-Machine-Learning-Framework-for-Heart-Stroke-Prediction,MOHAN02042004/Data-Centric-Machine-Learning-Framework-for-Heart-Stroke-Prediction,Built a data-driven machine learning pipeline to predict the likelihood of stroke in individuals using healthcare records. The framework emphasizes advanced data preprocessing and imbalance handling to improve clinical decision support.,2025-07-07T11:41:47Z,2025-07-07T11:45:11Z,yes
 Explainable_AI_for_model_Interpretability,TishyaJ/Explainable_AI_for_model_Interpretability,Developing an explainable AI framework to interpret the decisions made by a machine learning model. The framework shall provide insights into how the model makes predictions.,2025-07-07T18:09:16Z,2025-07-07T20:53:46Z,yes
 quant-framework,ramin-fazli/quant-framework,A trading system built in Python that leverages machine learning for quantitative analysis and algorithmic trading.,2025-07-07T22:38:04Z,2025-07-09T14:23:27Z,yes
-TinyTorch,MLSysBook/TinyTorch,TinyTorch is a minimalist framework for building machine learning systems from scratchfrom tensors to systems.,2025-07-09T02:47:00Z,2025-07-16T05:03:21Z,yes
+TinyTorch,MLSysBook/TinyTorch,TinyTorch is a minimalist framework for building machine learning systems from scratchfrom tensors to systems.,2025-07-09T02:47:00Z,2025-07-16T16:18:36Z,yes
 Polycystic-Ovary-Syndrome-Detection-Using-Multimodal-Machine-Learning-method,Suyash1904/Polycystic-Ovary-Syndrome-Detection-Using-Multimodal-Machine-Learning-method,A multi modal machine learning framework that gives a diagnostic by combining Blood reports of the patients and the Ultrasound or sonographic images for robust PCOS detection.,2025-07-10T08:47:31Z,2025-07-10T08:55:20Z,yes
 LEMONsc,Milo-Jsb/LEMONsc,Framework for experiments regarding the mass estimation of massive objects in astrophysical collision-driven systems using machine learning models,2025-07-11T02:07:25Z,2025-07-11T04:38:04Z,yes
 Predictive-Vulnerability-Detection-in-Programming-Languages,Joy-Okolo/Predictive-Vulnerability-Detection-in-Programming-Languages,Using machine learning models to predict potential vulnerabilities in Programming Languages based on SEcurity Feature Framework (SEFF) criteria,2025-07-11T06:06:12Z,2025-07-13T22:50:40Z,yes
 Portfolio-optimization-ml,rndpk12/Portfolio-optimization-ml,A machine learning framework for portfolio optimization and risk assessment using Nifty 50 data,2025-07-11T15:47:52Z,2025-07-11T16:10:51Z,yes
 Transonic_Shock_Airfoil_Surrogate_Models,AndyYeung1586/Transonic_Shock_Airfoil_Surrogate_Models,"AIAA AVIATION 2025 ""Machine Learning Framework for Predicting Shock Locations on Rotorcraft Airfoils"" resources",2025-07-11T17:15:40Z,2025-07-16T03:07:41Z,yes
-superml-java,supermlorg/superml-java,Modular machine learning  framework foreign java for ML model training,2025-07-12T01:11:02Z,2025-07-15T16:58:34Z,yes
+superml-java,supermlorg/superml-java,Modular machine learning  framework foreign java for ML model training,2025-07-12T01:11:02Z,2025-07-17T03:57:33Z,yes
 Machine-Learning-Based-Intrusion-Detection-System-for-Enhanced-Network-Security,maryamanwer/Machine-Learning-Based-Intrusion-Detection-System-for-Enhanced-Network-Security,"presents a Machine Learning-based IDS framework designed for general-purpose enterprise networks, using the TII-SSRC-23 dataset ",2025-07-12T13:03:39Z,2025-07-12T13:06:22Z,yes
 LOS_TKA,Hoseinto/LOS_TKA,A Machine Learning Framework for Predicting Prolonged Hospitalization in Iranian Knee Joint Replacement Candidates,2025-07-13T10:58:32Z,2025-07-13T16:41:09Z,yes
 specialized-nmt-framework,AlexisBal/specialized-nmt-framework,Multi-Stage Domain Adaptation for Neural Machine Translation: A Hybrid Learning Framework for Specialized Terminology and Low-Resource Language Pairs,2025-07-14T07:49:07Z,2025-07-15T02:32:22Z,yes
@@ -289,4 +285,7 @@ Integrated-ML-with-NLP-framework-for-Drug-Recommendation-System-,Nikhil30072/Int
 machineLearning,talachem/machineLearning,A wholistic machine learning framework written in python with numpy.,2025-07-15T10:31:23Z,2025-07-15T16:01:52Z,yes
 credit-line-optimizer,PranavCR01/credit-line-optimizer,"A machine learning framework to forecast spending, segment credit accounts by risk, and recommend personalized credit line increases using anonymized financial behavior data from Synchrony.",2025-07-15T14:54:29Z,2025-07-15T15:10:42Z,yes
 10-414-needle,qw33ha/10-414-needle,A machine learning framework project motivated by CMU-10414,2025-07-15T16:38:42Z,2025-07-15T17:07:17Z,yes
-ML_Frame_v1.0,rosshan-orz/ML_Frame_v1.0,A framework for machine learning.,2025-07-16T07:42:47Z,2025-07-16T09:13:14Z,yes
+ML_Frame_v1.0,rosshan-orz/ML_Frame_v1.0,A framework for machine learning.,2025-07-16T07:42:47Z,2025-07-16T16:23:21Z,yes
+DOCAFE-Discount-Optimization-and-Campaign-Forecasting-Engine,Rutuja-117/DOCAFE-Discount-Optimization-and-Campaign-Forecasting-Engine,"A machine learning framework that personalizes discount strategies at the user-product level and forecasts campaign outcomes such as GMV, CVR, and Margin.",2025-07-16T10:35:56Z,2025-07-16T11:12:42Z,yes
+LANTERN,AsalMehradfar/LANTERN,The implementation of LANTERN: A Machine Learning Framework for Lipid Nanoparticle Transfection Efficiency Prediction,2025-07-17T02:23:30Z,2025-07-17T02:24:51Z,yes
+ciaa_model,lmboat/ciaa_model,Structure-based machine learning framework for de novo prediction of functional cysteines for protein engineering,2025-07-17T03:11:59Z,2025-07-17T04:01:12Z,yes
