@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     strategy:
       matrix:
-        python-version: [ "3.9" ]
+        python-version: [ "3.13" ]
 
     steps:
       - uses: actions/checkout@v4
@@ -22,8 +22,8 @@ jobs:
         uses: actions/setup-python@v4
         with:
           python-version: ${{ matrix.python-version }}
-      - name: fish-actions/install-fish
-        uses: fish-actions/install-fish@v1.1.0
+      - name: Install fish shell
+        run: sudo apt install fish
       # You can test your matrix by printing the current Python version
       - name: Install dependencies
         run: python -m pip install torch transformers pandas progressbar2
